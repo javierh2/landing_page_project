@@ -48,7 +48,12 @@ header{
 }
 
 #menu-icon{
-    display: none; /* si colapsa se muestra el icono */
+    display: none; /* si colapsa se muestra el icono*/
+}
+#menu-icon{
+    font-size: 35px;
+    z-index: 101;
+    cursor: pointer;
 }
 
 #menu-toggle{
@@ -57,4 +62,16 @@ header{
 
 .menu-icon-action{
     display: none; /* inhabilitar accion del checkbox */
+}
+
+.hero{
+    height: 100%;
+    width: 100%;
+    min-height: 100vh;
+    background: linear-gradient(245.59deg, #31494e 0%, #385e70 25%, #131313 75%); /* fondeo color gradiente */
+    position: relative; /* para que sea contenedor relativo */
+    display: grid; /* el hero se divide en 2 columnas */
+    grid-template-columns: 1fr 1fr ; /* fraccionando el hero */
+    align-items: center; /* alinear vertical el hero */
+    gap: 2rem; /* espacio entre las 2 columnas */
 }
