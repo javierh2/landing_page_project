@@ -1,0 +1,27 @@
+/* normalize*/
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Inconsolata', monospace;
+    list-style: none;
+    text-decoration: none;
+    color: white;
+}
+
+body{
+    background-color: black;
+}
+
+header{
+    position: fixed; /* lo fija en la parte superior */
+    right: 0;
+    top: 0;
+    z-index: 100; /* superpone la barra sobre todo */
+    width: 100%;
+    display: flex; /* coloca los elementos en linea*/
+    align-items: center; /* centra verticalmente */
+    justify-content: space-between; /* separa elementos */
+    padding: 15px 3%;
+    background-color: transparent;
+}
