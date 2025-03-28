@@ -46,3 +46,15 @@ header{
 .navlist a:hover {
     border-bottom: 2px solid white; /* sobre los elementos muestra el solidsub */
 }
+
+#menu-icon{
+    display: none; /* si colapsa se muestra el icono */
+}
+
+#menu-toggle{
+    display: none; /* esconder el checkbox permanentemente */
+}
+
+.menu-icon-action{
+    display: none; /* inhabilitar accion del checkbox */
+}
