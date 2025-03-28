@@ -25,3 +25,24 @@ header{
     padding: 15px 3%;
     background-color: transparent;
 }
+
+.logo{
+    font-size: 30px;
+    font-weight: 800;
+}
+
+.navlist {
+    display: flex; /* elementos en linea */
+}
+
+.navlist a {
+    margin-left: 60px;
+    font-size: 15px;
+    font-weight: 600;
+    border-bottom: 2px solid transparent;
+    transition: all .5s ease; /* transicion en los elementos del navlist */
+}
+
+.navlist a:hover {
+    border-bottom: 2px solid white; /* sobre los elementos muestra el solidsub */
+}
