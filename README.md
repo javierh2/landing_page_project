@@ -1,11 +1,13 @@
-# PROYECTO FINAL: Landing Page de Maquetación web
+# Proyecto final: Landing Page
 
-## _Este repositorio contiene una landing page realizada en HTML y CSS_
-forma parte de mi práctica de maquetación web y uso de CSS
+## _HTML y CSS_
+Este repositorio contiene una landing page y forma parte de mi práctica de maquetación web
 
 ## Uso
 1. Clona el repositorio ejectuando en terminal
-''' sh git clone https://github.com/javierh2/landing_page_project.git '''
+''' sh
+git clone https://github.com/javierh2/landing_page_project.git
+'''
 2. Abra el proyecto en su editor de código
 3. Ejecuta el plugin "Live Server" para abrir el proyecto en el navegador
 
