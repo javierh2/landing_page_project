@@ -14,4 +14,4 @@ git clone https://github.com/javierh2/landing_page_project.git
 3. Ejecuta el plugin "Live Server" para abrir el proyecto en el navegador
 
 ## Host de Página Web
-Dillinger requires [aquí](https://nodejs.org/) v10+ to run.
+Host del proyecto en Netlify [aquí](https://landing-page-project-javier.netlify.app/).
