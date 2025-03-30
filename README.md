@@ -1,7 +1,9 @@
 # Proyecto final: Landing Page
 
-## _HTML y CSS_
-Este repositorio contiene una landing page y forma parte de mi práctica de maquetación web
+## _Sobre el proyecto_
+Este repositorio contiene una landing page y forma parte de mi práctica de maquetación web utilizando HTML y CSS
+aplicando en _HTML_ elementos de bloque, comentarios, multimedia, iconos y en _CSS_ pseudoclases, flexbox, transiciones y media queries
+para dar formato y que sea web responsive a diferentes resoluciones
 
 ## Uso
 1. Clona el repositorio ejectuando en terminal
