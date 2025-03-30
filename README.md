@@ -5,3 +5,4 @@ Uso
 Clone el repositorio haciendo git clone 
 Abra el proyecto en su editor de código
 Haciendo click derecho ejecutar Live Server para abrir el proyecto en el navegador
+editar esta linea para verlo al merge con el broder
