@@ -7,9 +7,9 @@ para dar formato y que sea web responsive a diferentes resoluciones
 
 ## Uso
 1. Clona el repositorio ejectuando en terminal
-''' sh
+```sh
 git clone https://github.com/javierh2/landing_page_project.git
-'''
+```
 2. Abra el proyecto en su editor de código
 3. Ejecuta el plugin "Live Server" para abrir el proyecto en el navegador
 
