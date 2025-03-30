@@ -257,7 +257,7 @@ section {
         margin: 7px 0;
     }
 
-    #menu-toggle:checked + label.menu-icon-action + ul { /* el menu toggle (su id) si está checked selecciona el label que contiene el icono y con él, la lista ul... el navlist está escondido */
+    #menu-toggle:checked + label.menu-icon-action + ul { /* el menu toggle (su id) si está checked selecciona el label que contiene el icono y con él, la lista ul, el navlist está escondido */
         right: 0;
     }
 }
