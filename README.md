@@ -1,9 +1,13 @@
-PROYECTO FINAL: Landing Page de Maquetación web
-Este repositorio contiene una landing page realizada en HTML y CSS parte del curso de MAQUETACIÓN WEB 
+# PROYECTO FINAL: Landing Page de Maquetación web
 
-Uso
-Clone el repositorio haciendo git clone 
-Abra el proyecto en su editor de código
-Haciendo click derecho ejecutar Live Server para abrir el proyecto en el navegador
-ya finalizado el merge
-quiero solicitar un pull request
+## _Este repositorio contiene una landing page realizada en HTML y CSS_
+forma parte de mi práctica de maquetación web y uso de CSS
+
+## Uso
+1. Clona el repositorio ejectuando en terminal
+''' sh git clone https://github.com/javierh2/landing_page_project.git '''
+2. Abra el proyecto en su editor de código
+3. Ejecuta el plugin "Live Server" para abrir el proyecto en el navegador
+
+## Host de Página Web
+Dillinger requires [aquí](https://nodejs.org/) v10+ to run.
