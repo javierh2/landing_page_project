@@ -255,8 +255,4 @@ section {
     #menu-toggle:checked + label.menu-icon-action + ul {
         right: 0;
     }
-
-
-
-
 }
